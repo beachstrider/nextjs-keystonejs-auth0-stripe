@@ -1,0 +1,12 @@
+The intent of this project is to integrate the frontend and backend of a site using Auth0 for authentication.
+
+I've put together a sample app to be used for this project using NextJS, Apollo, and Keystone - the frontend already has Auth0 running.  You can look at it here:
+
+https://github.com/thorntonbf/NextJS-Auth0-Keystone - you can run the frontend and backend via 'npm run dev' in the respective folders.  Then, there's a test account set up using the credentials user: test@test.com password: testPassword3#
+
+If a user is not signed in, it shows a simple pricing page.  A such a successful project would look like this:
+
+1. A user is completes the signup form - and completes checkout via Stripe. (I can set up test products in stripe if it's helpful)
+2. Upon successful completion of Stripe checkout - the user is registered to Auth0
+3. The user is added to the Keystone backend
+4. The user can login to the frontend app and see CSR data returned from a user specific GraphQL query

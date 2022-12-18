@@ -1,0 +1,26 @@
+@import url('./stripe.css');
+
+html {
+  --red: #CA0016;
+  --black: #393939;
+  --grey: #3a3a3a;
+  --gray: var(--grey);
+  --lightGrey: #e1e1e1;
+  --lightGray: var(--lightGrey);
+  --clearPayerDarkBlue: #3A5A6F;
+  --clearPayerLightBlue: #678094;
+  --clearPayerGreen: #7AE09E;
+  --offWhite: #ededed;
+  --maxWidth: 1000px;
+  --bs: 0 12px 24px 0 rgba(0, 0, 0, 0.09);
+  box-sizing: border-box;
+}
+
+a {
+  color: var(--clearPayerLightBlue);
+  text-decoration: none;
+}
+
+a:hover {
+
+}
