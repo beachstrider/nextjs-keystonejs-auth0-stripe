@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/6391763/90599044-ca070300-e211-11ea-8b8a-89354dd30bd5.png" alt="Logo"/>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/nirmalyaghosh23">
-    <img alt="Twitter: Nirmalya Ghosh" src="https://img.shields.io/twitter/follow/NirmalyaGhosh_.svg?style=social" target="_blank" />
-  </a>
-</p>
-
-Keystonejs and Next.js with Auth0, Stripe
+# Keystonejs and Next.js with Auth0, Stripe
 
 1. [**frontend**]: Next.js application
 2. [**backend**]: Keystonejs application
