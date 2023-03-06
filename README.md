@@ -27,7 +27,7 @@ source .env
 
 ### 4. **Create and copy the Auth0 credentials**
 
-Create a new [Google OAuth Client](https://console.developers.google.com/apis/credentials/oauthclient) and copy the credentials (Client ID and Client Secret) in your .env file.
+Create a new Auth0 client(https://auth0.com) and copy the credentials (Client ID and Client Secret) in your .env file.
 
 ### 5. **Start the frontend application**
 
